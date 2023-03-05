@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "315671080951",
+    "project_id": "mynotes-bim-flutter",
+    "storage_bucket": "mynotes-bim-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315671080951:android:94b11e132e52c11fef48f2",
+        "android_client_info": {
+          "package_name": "com.bimjira.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315671080951-hk0n726n8hih6bf74331pobpjvn0talk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzGr2K0yx2wnOrNLn38OIadxSAB7O91As"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315671080951-hk0n726n8hih6bf74331pobpjvn0talk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
