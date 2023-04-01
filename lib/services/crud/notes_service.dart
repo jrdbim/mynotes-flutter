@@ -84,7 +84,7 @@ class NotesService {
     );
 
     if (updatesCount == 0) {
-      throw CouldNotUpdateNote();
+      throw CouldNotUpdateNoteException();
     } else {
       final updatedNote = await getNote(id: note.id);
       _notes.removeWhere((note) => note.id == updatedNote.id);
