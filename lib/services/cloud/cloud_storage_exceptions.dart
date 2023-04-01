@@ -9,7 +9,7 @@ class CouldNotCreateNoteException extends CloudStorageException {}
 class CouldNotGetAllNotesException extends CloudStorageException {}
 
 // U in CRUD
-class CouldNotUodateNoteException extends CloudStorageException {}
+class CouldNotUpdateNoteException extends CloudStorageException {}
 
 // D in CRUD
 class CouldNotDeleteNoteException extends CloudStorageException {}
